@@ -6,15 +6,20 @@ I'm a **Data Analyst & Software Developer** dedicated to building simple, practi
 
 ### 🛠 My Toolbox
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Data & Analytics** | Python, SQL, Power BI, EDA, Data Cleaning |
-| **Development** | JavaScript, Git, GitHub, Web Logic |
+**Development & Data Engineering**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC0000?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Analytics & Visualization**
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📈 GitHub Stats
-![Jone's GitHub stats](https://github-readme-stats.vercel.app/api?username=jone10&show_icons=true&theme=radical)
 
 ---
 
