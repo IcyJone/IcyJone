@@ -1,8 +1,30 @@
 ## Hi there 👋
 
-Im Jone, Data Analytics || Python Developer I focus on turning data and code into clear, usable solutions.
+Im Jone, I work on data analytics and software development projects, focusing on simple, practical, real-world solutions.
 
-## 🛠 Tech Stack
-- Languages: Python, SQL, JavaScript
-- Data & BI: Power BI
-- Tools: Git, GitHub
+---
+
+### 🛠 Skills
+
+**Data & Analytics**
+- Python
+- SQL
+- Power BI
+- Data Cleaning
+- Exploratory Data Analysis
+
+**Development**
+- Python
+- JavaScript
+- Basic Web Logic
+- Git & GitHub
+
+---
+
+### 🌐 Socials
+- LinkedIn: https://www.linkedin.com/in/jone10/
+- Email: jonesangeeth10@gmail.com
+
+---
+
+📌 Check out my pinned repositories below for featured projects.
